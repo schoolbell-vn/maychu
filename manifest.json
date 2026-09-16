@@ -4,11 +4,10 @@
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "CHUONG_BAO_ESP32.ino.bootloader.bin", "offset": 0 },
-        { "path": "CHUONG_BAO_ESP32.ino.partitions.bin", "offset": 32768 },
-        { "path": "CHUONG_BAO_ESP32.ino.bin", "offset": 65536 }
+        { "path": "CHUONG_BAO_MAYCHU_22.ino.bootloader.bin", "offset": 0 },
+        { "path": "CHUONG_BAO_MAYCHU_22.ino.partitions.bin", "offset": 32768 },
+        { "path": "CHUONG_BAO_MAYCHU_22.ino.bin", "offset": 65536 }
       ]
     }
   ]
 }
-
